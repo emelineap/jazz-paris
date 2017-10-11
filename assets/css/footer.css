@@ -1,22 +1,25 @@
-p{
+.in-footer-color {
 	background-color: black;
+}
+
+footer p {
 	height: 5em;
 	line-height: 5em;
 }
 
-p{
+p {
 	color: white;
 	text-align: center;
 }
 
-p a{
+p a {
 	color: white;
 }
 
-.padding-right{
+.padding-right {
 	padding-right: 0;
 }
 
-.padding-left{
+.padding-left {
 	padding-left: 0;
 }
