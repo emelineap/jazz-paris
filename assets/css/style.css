@@ -1,0 +1,47 @@
+/*-------------------*\
+
+$CONTENU
+
+\*-------------------*/
+
+/**
+*CONTENU ......
+*RESET .........Réinitialisation des styles par défaut
+*FONT  .........Les polices de caractère
+*/
+
+
+
+body {
+
+	margin: 500px;
+	background-color: black;
+}
+
+.container {
+	background-color: white;
+}
+
+
+h1 {
+
+	font-family: Fira Sans, sans-serif;
+	font-size: 30px;
+	text-align: center;
+	width: 300px;
+	background-color: #FFD700;
+	padding: 10px;
+
+
+}
+
+
+p {
+
+}
+
+img {
+	height: 400px;
+	width: 800px;
+;
+}

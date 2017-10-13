@@ -1,0 +1,69 @@
+/*-------------------*\
+
+$CONTENU
+
+\*-------------------*/
+
+/**
+*CONTENU ......
+*RESET .........Réinitialisation des styles par défaut
+*FONT  .........Les polices de caractère
+*/
+
+
+body{
+
+	margin: auto;
+	background-color: black;
+}
+
+
+.container {
+	background-color: white;
+}
+
+
+h1 {
+	font-family: Fira Sans, sans-serif;
+	font-size: 30px;
+	font-color: black;
+	text-align: center;
+	width: 300px;
+	font-color:rgb(254, 201, 0);
+	position: absolute;
+    bottom: -10px;
+    left: 10px;
+    
+}
+
+img {
+	height: 400px;
+	width: 800px;
+	margin-left: 10px;
+
+}
+
+.aujourdhui {
+	position: relative;
+	margin-bottom: 30px;
+}
+
+
+.styles {
+	position: relative;
+	margin-bottom: 30px;
+}
+
+.origine {
+	position: relative;
+	margin-bottom: 30px;
+}
+
+
+
+
+
+
+
+
+
