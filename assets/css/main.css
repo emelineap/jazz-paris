@@ -1,69 +1,81 @@
-/*-------------------*\
+/* On travaille sur la balise body, donc sur TOUTE la page */
 
-$CONTENU
+body {
 
-\*-------------------*/
-
-/**
-*CONTENU ......
-*RESET .........Réinitialisation des styles par défaut
-*FONT  .........Les polices de caractère
-*/
-
-
-body{
-
-	margin: auto;
-	background-color: black;
-}
-
-
-.container {
 	background-color: white;
 }
 
+/*on travaille sur le bloc qui contient les 2 blocs: images + fil d'actu */ 
 
-h1 {
-	font-family: Fira Sans, sans-serif;
-	font-size: 30px;
-	font-color: black;
-	text-align: center;
-	width: 300px;
-	font-color:rgb(254, 201, 0);
-	position: absolute;
-    bottom: -10px;
-    left: 10px;
-    
+#global{
+
+	width: 80%;
+	background-color: white;
+	margin:auto;
 }
 
-img {
-	height: 400px;
-	width: 800px;
+#left, #right {
+
+	display: inline-block;
+	vertical-align: top;
+
+}
+
+/*on travaille sur le bloc gauche qui contient les images */
+
+.categories {
+	/* style du fond*/
+	background-color: rgb(254, 201, 0);
+	border: 1px;
+	width: 300px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 40px;
+	padding-right: 40px;
+
+	/* style du texte*/
+	font-family: "Fira Sans", sans-serif;
+	font-size: 30px;
+	color: black;
+	text-align: center;
+
+	/*position des textes sur les images*/
+	position: relative;
+	bottom: 80px;
+	margin: -30px;
 	margin-left: 10px;
 
 }
 
-.aujourdhui {
-	position: relative;
-	margin-bottom: 30px;
+.picture_categories{
+
+	height: 400px;
+	width: 900px;
+	margin: 10px;
 }
 
+/*on travaille sur le bloc droit qui contient le fil d'actu*/
 
-.styles {
-	position: relative;
-	margin-bottom: 30px;
+#right{
+
+	margin-right:30px;
+	height: 1300px;
+	width: 550px;
 }
 
-.origine {
-	position: relative;
-	margin-bottom: 30px;
+.actu {
+
+	/* style du texte*/
+	font-family: "Fira Sans", sans-serif;
+	font-size: 30px;
+	color: black;
+	text-align: center;
+
+	/* style du fond*/
+	border: 1px solid white;
+	height: 1200px;
+	width: 550px;
+	background: lightgrey;
 }
-
-
-
-
-
-
-
 
 
