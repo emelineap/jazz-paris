@@ -1,47 +1,45 @@
-/*-------------------*\
-
-$CONTENU
-
-\*-------------------*/
-
-/**
-*CONTENU ......
-*RESET .........Réinitialisation des styles par défaut
-*FONT  .........Les polices de caractère
-*/
-
-
-
-body {
-
-	margin: 500px;
+body{
+	font-family: 'Fira Sans', sans-serif;
+	font-color: black;
 	background-color: black;
 }
 
-.container {
+.container{
 	background-color: white;
+	height: 12700px;
 }
 
+.introduction{
 
-h1 {
+	font-size: 20px;
+	color: black;
+	text-align: justify;
+	font-family: 'Arial', sans-serif;
+}
 
-	font-family: Fira Sans, sans-serif;
+.style{
+	
+	box-sizing: border-box;
+	margin: 50px auto;
+	padding: 8px;
+	width: 70%; min-height: 100px;
+	background-color: black;
+}
+
+.style p{
+
+	color: white;
+	text-align: justify;
+	font-family:'Fira Sans',sans-serif;
+	font-size: 18px;
+}
+
+.style h2{
+
+	color: white;
+	font-family:'Fira Sans',sans-serif;
 	font-size: 30px;
 	text-align: center;
-	width: 300px;
-	background-color: #FFD700;
-	padding: 10px;
-
-
 }
 
 
-p {
-
-}
-
-img {
-	height: 400px;
-	width: 800px;
-;
-}

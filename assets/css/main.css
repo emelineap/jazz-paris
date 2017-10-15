@@ -2,19 +2,25 @@
 
 body {
 
+	font-family: 'Fira Sans', sans-serif;
+	font-color: black;
+	background-color: black;
+}
+
+.container{
 	background-color: white;
+	height: 1000px;
 }
 
 /*on travaille sur le bloc qui contient les 2 blocs: images + fil d'actu */ 
 
-#global{
+.global{
 
-	width: 80%;
-	background-color: white;
-	margin:auto;
+	width: 90%;
+	margin: 30px;
 }
 
-#left, #right {
+.left, .right {
 
 	display: inline-block;
 	vertical-align: top;
@@ -23,13 +29,18 @@ body {
 
 /*on travaille sur le bloc gauche qui contient les images */
 
+.left {
+
+	margin-left:10px;
+}
+
 .categories {
 	/* style du fond*/
 	background-color: rgb(254, 201, 0);
 	border: 1px;
 	width: 300px;
-	padding-top: 10px;
-	padding-bottom: 10px;
+	padding-top: 6px;
+	padding-bottom: 6px;
 	padding-left: 40px;
 	padding-right: 40px;
 
@@ -49,18 +60,16 @@ body {
 
 .picture_categories{
 
-	height: 400px;
-	width: 900px;
+	height: 300px;
+	width: 652px;
 	margin: 10px;
 }
 
 /*on travaille sur le bloc droit qui contient le fil d'actu*/
 
-#right{
+.right{
 
-	margin-right:30px;
-	height: 1300px;
-	width: 550px;
+	;	
 }
 
 .actu {
@@ -72,9 +81,10 @@ body {
 	text-align: center;
 
 	/* style du fond*/
+	margin-top: 10px;
 	border: 1px solid white;
-	height: 1200px;
-	width: 550px;
+	height: 930px;
+	width: 370px;
 	background: lightgrey;
 }
 
