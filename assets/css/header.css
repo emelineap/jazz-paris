@@ -1,0 +1,49 @@
+body{
+	font-family: 'Fira Sans', sans-serif;
+	background-color: black;
+}
+
+.container{
+	background-color: white;
+}
+
+img{
+	width: 100%;
+	padding: 0 !important;
+}
+
+nav{
+	line-height: 1em;
+}
+
+h1{
+	font-size: 20px;
+	background-color: rgb(254, 201, 0);
+	padding: 10px;
+	margin: 0;
+	text-align: center;
+	line-height: 1em;
+}
+
+h1 a{
+	color: black;
+}
+
+ul{
+	list-style-type: none;
+	font-size: 20px;
+	padding: 10px;
+	line-height: 1em;
+}
+
+li{
+	text-align: center;
+}
+
+li a{
+	color: black;
+}
+
+.active {
+	background-color: gray;
+}

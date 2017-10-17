@@ -1,0 +1,91 @@
+/* On travaille sur la balise body, donc sur TOUTE la page */
+
+body {
+
+	font-family: 'Fira Sans', sans-serif;
+	font-color: black;
+	background-color: black;
+}
+
+.container{
+	background-color: white;
+	height: 1000px;
+}
+
+/*on travaille sur le bloc qui contient les 2 blocs: images + fil d'actu */ 
+
+.global{
+
+	width: 90%;
+	margin: 30px;
+}
+
+.left, .right {
+
+	display: inline-block;
+	vertical-align: top;
+
+}
+
+/*on travaille sur le bloc gauche qui contient les images */
+
+.left {
+
+	margin-left:10px;
+}
+
+.categories {
+	/* style du fond*/
+	background-color: rgb(254, 201, 0);
+	border: 1px;
+	width: 300px;
+	padding-top: 6px;
+	padding-bottom: 6px;
+	padding-left: 40px;
+	padding-right: 40px;
+
+	/* style du texte*/
+	font-family: "Fira Sans", sans-serif;
+	font-size: 30px;
+	color: black;
+	text-align: center;
+
+	/*position des textes sur les images*/
+	position: relative;
+	bottom: 80px;
+	margin: -30px;
+	margin-left: 10px;
+
+}
+
+.picture_categories{
+
+	height: 300px;
+	width: 652px;
+	margin: 10px;
+}
+
+/*on travaille sur le bloc droit qui contient le fil d'actu*/
+
+.right{
+
+	;	
+}
+
+.actu {
+
+	/* style du texte*/
+	font-family: "Fira Sans", sans-serif;
+	font-size: 30px;
+	color: black;
+	text-align: center;
+
+	/* style du fond*/
+	margin-top: 10px;
+	border: 1px solid white;
+	height: 930px;
+	width: 370px;
+	background: lightgrey;
+}
+
+
