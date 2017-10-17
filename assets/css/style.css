@@ -10,11 +10,13 @@ body{
 }
 
 .introduction{
-
+	text-indent: 40px;
+	padding-top: 50px;
 	font-size: 20px;
 	color: black;
 	text-align: justify;
 	font-family: 'Arial', sans-serif;
+	border: 1 px solid left;
 }
 
 .style{
