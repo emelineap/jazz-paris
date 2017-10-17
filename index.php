@@ -26,9 +26,7 @@
 
 	<?php include ("includes/header.php"); ?>
 
-	<main>
-
-	</main>
+	<?php include ("includes/main.php"); ?>
 
 	<?php include ("includes/footer.php"); ?>
 
