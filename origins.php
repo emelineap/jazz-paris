@@ -12,7 +12,7 @@
 	<!-- CUSTOM CSS -->
 	
 	<link rel="stylesheet" type ="text/css" href="assets/css/header.css" />
-	<link rel="stylesheet" type ="text/css" href="assets/css/style.css" />
+	<link rel="stylesheet" type ="text/css" href="assets/css/origins.css" />
 	<link rel="stylesheet" type ="text/css" href="assets/css/footer.css" />
 
 </head>
