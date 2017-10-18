@@ -57,16 +57,10 @@
 								<p>19 octobre 2017 à 21h30</p>
 								<p class="btn"><a href="http://www.fnacspectacles.com/place-spectacle/manifestation/Jazz-HOMMAGE-A-SIDNEY-BECHET-JC19O.htm?tduid=446663d9dc856c649bd511f351ec5a41">Achetez vos places</a></p>
 							</div>
-
-							<div class="news">
-								<img src="assets/pictures/sidneybechet.jpg" alt="concert">
-								<h6>Hommage À Sidney Bechet</h6>
-								<p>Le Méridien Étoile</p>
-								<p>19 octobre 2017 à 21h30</p>
-								<p class="btn"><a href="http://www.fnacspectacles.com/place-spectacle/manifestation/Jazz-HOMMAGE-A-SIDNEY-BECHET-JC19O.htm?tduid=446663d9dc856c649bd511f351ec5a41">Achetez vos places</a></p>
-							</div>
 						</div>
 					</aside>
+
+					<iframe src="https://open.spotify.com/embed?uri=spotify:user:spotify:playlist:37i9dQZF1DWZx4L0CjnaL9" width="262" height="250" frameborder="0" allowtransparency="true"></iframe>
 
 				</div>
 			</div> 
