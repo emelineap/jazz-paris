@@ -19,15 +19,11 @@
 
 <body>
 
-
-
 	<!--Header réalisé par Emeline /include -->
 	<!--Nav bar réalisée par Emeline /include -->
-	<?php include("includes/header.php"); 
-	?>
+	<?php include ("includes/header.php"); ?>
 	 
 <div class="container">
-	<img src="http://scd.musique.rfi.fr/sites/default/files/styles/large_normal_982x552/public/thumbnails/image/jazz-orchestra-1921-ok_0_0_5.jpg?itok=DuS7F5jD&timestamp=1469543409" class="img1">
 	
 	<div class="article">
 	
@@ -37,28 +33,21 @@
 	</div>
 
 		<div class="style">
-	<img src="https://static.lexpress.fr/medias_10555/w_2048,h_890,c_crop,x_0,y_160/w_640,h_360,c_fill,g_north/v1440752022/nina-simone_5404521.jpg">
+	<img src="http://scd.musique.rfi.fr/sites/default/files/styles/large_normal_982x552/public/thumbnails/image/jazz-orchestra-1921-ok_0_0_5.jpg?itok=DuS7F5jD&timestamp=1469543409" class="img1">
 
 	<h2>Origines</h2>
 
 	<p>Bien que le jazz soit aujourd'hui unanimement reconnu comme une forme d'expression universelle, son développement international fut souvent semé d'embûches. Il y a un siècle, aux Etats-Unis, le contexte politique et social bâillonnait les manifestations d'une culture «nègre» jugée primitive et sans valeur. Au même moment, la France coloniale portait un regard paternaliste et condescendant sur les populations noires d'Afrique. Ainsi, lorsque les premiers échos d'un jazz américain balbutiant parvinrent aux oreilles de musiciens européens aguerris, les réactions furent dubitatives, amusées, parfois dédaigneuses et toujours dictées par une compréhension primaire d'un art dit «exotique». Il est donc difficile de dater précisément la naissance du jazz en France. D'autant plus difficile d'en dessiner les contours... Le pianiste, chef d'orchestre et pédagogue français, Laurent Cugny, s'est lancé dans une étude approfondie du paysage musical européen en éditant le 1er Tome d'une série de 4 ouvrages, intitulée «Une histoire du Jazz en France» (Outre Mesure Editions), qui narre dans le détail l'évolution progressive des mentalités face à l'émergence d'une culture métisse, imprévisible et libre.
  </p>
-
 		</div>
-
-		<div class="style">
-	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Ornette_Coleman.jpg/220px-Ornette_Coleman.jpg">
-		
-
 		<h2> Musique et danses des esclaves</h2>
 		<p>Avant 1808, la traite des esclaves avait déjà provoqué l'arrivée aux États-Unis d'un million d'Africains subsahariens, principalement en provenance d'Afrique de l'Ouest et du bassin du fleuve Congo. Ceux-ci ont importé leurs traditions musicales : la musique africaine utilisait une seule mélodie, des rythmes contre-métriques, et une structure en appel et réponse  (exemple : work song). Elle avait essentiellement un but fonctionnel, pour accompagner le travail (chant de travail) ou les rites funéraires. Des rassemblements d'esclaves donnaient lieu à de grandes fêtes urbaines où se mêlaient danses africaines et percussions. Jusqu'en 1843, une fête était organisée chaque dimanche à Congo Square, à la Nouvelle-Orléans, et d'autres rassemblements avaient lieu à la même époque dans le Sud des États-Unis.</br>
 
 En outre, le jazz a aussi pour origine la musique religieuse : les esclaves apprennent les harmonies des hymnes lors de l'office dominical, et y ajoutent des influences africaines pour créer les negro spirituals et le gospel, peu à peu chantés dans les églises méthodistes, baptistes ou pentecôtistes28. De même, au cours du xixe siècle, un nombre grandissant de musiciens noirs apprennent à jouer d'un instrument « européen », notamment le violon, et parodient la musique de bal dans les cakewalks. À l'inverse, les minstrel shows, réalisés par des Euro-Américains au visage peint en noir (blackface), combinent la syncope des rythmes africains et l'harmonie de la musique européenne.
 		</p>
-	</div>
 
 		<div class="style">
-		<img src="http://www.musikzeitung.ch/.imaging/stk/musikzeitung/article-image-intro/website/fr/resonance/jazz/2017/Femmes-AMR/imageBinary/Mary_Lou_Williams_(Gottlieb_09231)_-_Crop.jpg">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Ornette_Coleman.jpg/220px-Ornette_Coleman.jpg">
 
 	<h2>Ragtime et blues (1890-1910)</h2>
 
@@ -66,7 +55,7 @@ En outre, le jazz a aussi pour origine la musique religieuse : les esclaves appr
 		</div>
 
 		<div class="style">
-		<img src="http://acoeuretacris.a.c.pic.centerblog.net/nouvelle_orleans_07-154ae1a.jpg">
+	<img src="http://www.tsfjazz.com/im_une/20170707-jazz31-980x735.jpg">
 
 	<h2>Jazz Nouvelle-Orléans et Dixieland (1910-1930)</h2>
 
@@ -78,7 +67,7 @@ Le premier enregistrement de jazz voit le jour en mars 1917 par l'Original Dixie
 
 
 		<div class="style">
-	<img src="http://www.duduki.net/photocache/36/mp3//goj-029-Be-Bop%201945-1953/tn_400__cover.jpg">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Hot_clube4.jpg/220px-Hot_clube4.jpg">
 
 	<h2>Du swing au bebop</h2>
 
@@ -91,7 +80,7 @@ Au début des années 1940 naît le bebop. Tempos ultras rapides, petites format
 
 
 		<div class="style">
-	<img src="http://serieslitteraires.org/site/IMG/jpg/jazz.jpg">
+	<img src="https://static.fnac-static.com/multimedia/Images/FR/NR/a8/2f/88/8925096/1540-1/tsp20170706110233/50-s-Be-Bop-Jazz.jpg">
 
 	<h2>BE BOP</h2>
 
@@ -101,18 +90,24 @@ Au début des années 1940 naît le bebop. Tempos ultras rapides, petites format
 		</div>
 
 	<div class="style">
-	<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_g6Gg2ydyi3go4GJirdlzHwSbC4YxIM58fyZkV3RFu_swCIY4sQ">
-
+	<img src="http://serieslitteraires.org/site/IMG/jpg/jazz.jpg">
 
 	<h2>Cool jazz, hard bop, jazz modal, free jazz (années 1950)</h2>
 
-	<p>Le cool jazz né en 1949 sous la houlette de Miles Davis qui cherche à briser la spirale frénétique du be-bop vers plus de virtuosité. L'album The Birth of Cool en 1949 marque un retour à des rythmes plus apaisés et des compositions plus simples. Ce caractère plus abordable lui permettra de connaitre un succès rapide, en particulier auprès des musiciens de la côte ouest des États-Unis avant de se prêter à de nombreux métissages (notamment avec la musique brésilienne pour créer la bossa-nova ). Le cool jazz est un jazz libre, rempli de silence et d'intensité. Il contient tout le bebop dans ses phrasés, dans l'attitude des musiciens et c'est aussi une musique qui s'écoute facilement, que l'on peut apprécier dans tous les instants.</p>
+	<p>Le cool jazz né en 1949 sous la houlette de Miles Davis qui cherche à briser la spirale frénétique du be-bop vers plus de virtuosité. L'album The Birth of Cool en 1949 marque un retour à des rythmes plus apaisés et des compositions plus simples. Ce caractère plus abordable lui permettra de connaitre un succès rapide, en particulier auprès des musiciens de la côte ouest des États-Unis avant de se prêter à de nombreux métissages (notamment avec la musique brésilienne pour créer la bossa-nova ). Le cool jazz est un jazz libre, rempli de silence et d'intensité. Il contient tout le bebop dans ses phrasés, dans l'attitude des musiciens et c'est aussi une musique qui s'écoute facilement, que l'on peut apprécier dans tous les instants.<br />
+	Musiciens : Miles Davis - Chet Baker - Dave Brubeck  </p>
 		</div>
 
+	<div class="style">
+	<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_g6Gg2ydyi3go4GJirdlzHwSbC4YxIM58fyZkV3RFu_swCIY4sQ">
+
+	
+
+	
+	</div>
 </div>
 
-<?php include ("includes/footer.php"); 
-?>
+
 
 
 </body>
