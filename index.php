@@ -16,7 +16,6 @@
 	<!-- CUSTOM CSS -->
 	<link rel="stylesheet" type ="text/css" href="assets/css/header.css" />
 	<link rel="stylesheet" type ="text/css" href="assets/css/main.css" />
-	<link rel="stylesheet" type ="text/css" href="assets/css/newsfeed.css" />
 	<link rel="stylesheet" type ="text/css" href="assets/css/footer.css" />
 
 	<!-- FONT -->
