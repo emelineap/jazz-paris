@@ -27,6 +27,7 @@
 	?>
 	 
 <div class="container">
+	<img src="http://scd.musique.rfi.fr/sites/default/files/styles/large_normal_982x552/public/thumbnails/image/jazz-orchestra-1921-ok_0_0_5.jpg?itok=DuS7F5jD&timestamp=1469543409" class="img1">
 	
 	<div class="article">
 	
@@ -36,7 +37,7 @@
 	</div>
 
 		<div class="style">
-	<img src="http://scd.musique.rfi.fr/sites/default/files/styles/large_normal_982x552/public/thumbnails/image/jazz-orchestra-1921-ok_0_0_5.jpg?itok=DuS7F5jD&timestamp=1469543409" class="img1">
+	<img src="https://static.lexpress.fr/medias_10555/w_2048,h_890,c_crop,x_0,y_160/w_640,h_360,c_fill,g_north/v1440752022/nina-simone_5404521.jpg">
 
 	<h2>Origines</h2>
 
@@ -46,8 +47,7 @@
 		</div>
 
 		<div class="style">
-	<img src="https://static.lexpress.fr/medias_10555/w_2048,h_890,c_crop,x_0,y_160/w_640,h_360,c_fill,g_north/v1440752022/nina-simone_5404521.jpg">
-
+	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Ornette_Coleman.jpg/220px-Ornette_Coleman.jpg">
 		
 
 		<h2> Musique et danses des esclaves</h2>
@@ -58,7 +58,7 @@ En outre, le jazz a aussi pour origine la musique religieuse : les esclaves appr
 	</div>
 
 		<div class="style">
-	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Ornette_Coleman.jpg/220px-Ornette_Coleman.jpg">
+		<img src="http://www.musikzeitung.ch/.imaging/stk/musikzeitung/article-image-intro/website/fr/resonance/jazz/2017/Femmes-AMR/imageBinary/Mary_Lou_Williams_(Gottlieb_09231)_-_Crop.jpg">
 
 	<h2>Ragtime et blues (1890-1910)</h2>
 
@@ -66,7 +66,7 @@ En outre, le jazz a aussi pour origine la musique religieuse : les esclaves appr
 		</div>
 
 		<div class="style">
-	<img src="http://www.musikzeitung.ch/.imaging/stk/musikzeitung/article-image-intro/website/fr/resonance/jazz/2017/Femmes-AMR/imageBinary/Mary_Lou_Williams_(Gottlieb_09231)_-_Crop.jpg">
+		<img src="http://acoeuretacris.a.c.pic.centerblog.net/nouvelle_orleans_07-154ae1a.jpg">
 
 	<h2>Jazz Nouvelle-Orléans et Dixieland (1910-1930)</h2>
 
@@ -78,7 +78,7 @@ Le premier enregistrement de jazz voit le jour en mars 1917 par l'Original Dixie
 
 
 		<div class="style">
-	<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReCUl2dtvzU6TekyQCxHgQZa3GIXWbapI3cD7086q17bOg7qDYCw">
+	<img src="http://www.duduki.net/photocache/36/mp3//goj-029-Be-Bop%201945-1953/tn_400__cover.jpg">
 
 	<h2>Du swing au bebop</h2>
 
@@ -91,7 +91,7 @@ Au début des années 1940 naît le bebop. Tempos ultras rapides, petites format
 
 
 		<div class="style">
-	<img src="http://www.duduki.net/photocache/36/mp3//goj-029-Be-Bop%201945-1953/tn_400__cover.jpg">
+	<img src="http://serieslitteraires.org/site/IMG/jpg/jazz.jpg">
 
 	<h2>BE BOP</h2>
 
@@ -101,24 +101,17 @@ Au début des années 1940 naît le bebop. Tempos ultras rapides, petites format
 		</div>
 
 	<div class="style">
-	<img src="http://serieslitteraires.org/site/IMG/jpg/jazz.jpg">
+	<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_g6Gg2ydyi3go4GJirdlzHwSbC4YxIM58fyZkV3RFu_swCIY4sQ">
+
 
 	<h2>Cool jazz, hard bop, jazz modal, free jazz (années 1950)</h2>
 
-	<p>Le cool jazz né en 1949 sous la houlette de Miles Davis qui cherche à briser la spirale frénétique du be-bop vers plus de virtuosité. L'album The Birth of Cool en 1949 marque un retour à des rythmes plus apaisés et des compositions plus simples. Ce caractère plus abordable lui permettra de connaitre un succès rapide, en particulier auprès des musiciens de la côte ouest des États-Unis avant de se prêter à de nombreux métissages (notamment avec la musique brésilienne pour créer la bossa-nova ). Le cool jazz est un jazz libre, rempli de silence et d'intensité. Il contient tout le bebop dans ses phrasés, dans l'attitude des musiciens et c'est aussi une musique qui s'écoute facilement, que l'on peut apprécier dans tous les instants.<br />
-	Musiciens : Miles Davis - Chet Baker - Dave Brubeck  </p>
+	<p>Le cool jazz né en 1949 sous la houlette de Miles Davis qui cherche à briser la spirale frénétique du be-bop vers plus de virtuosité. L'album The Birth of Cool en 1949 marque un retour à des rythmes plus apaisés et des compositions plus simples. Ce caractère plus abordable lui permettra de connaitre un succès rapide, en particulier auprès des musiciens de la côte ouest des États-Unis avant de se prêter à de nombreux métissages (notamment avec la musique brésilienne pour créer la bossa-nova ). Le cool jazz est un jazz libre, rempli de silence et d'intensité. Il contient tout le bebop dans ses phrasés, dans l'attitude des musiciens et c'est aussi une musique qui s'écoute facilement, que l'on peut apprécier dans tous les instants.</p>
 		</div>
 
-	<div class="style">
-	<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_g6Gg2ydyi3go4GJirdlzHwSbC4YxIM58fyZkV3RFu_swCIY4sQ">
-
-	
-
-	
-	</div>
 </div>
 
-<?php include("includes/footer.php"); 
+<?php include ("includes/footer.php"); 
 ?>
 
 
