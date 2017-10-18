@@ -22,6 +22,7 @@ function ispageactive($currentpage)
 			<ul class="header-nav row">
 				<li class="col-xs-2 col-lg-2">
 					<h1><a href="index.php">JAZZ PARIS</a></h1>
+				
 				</li>
 				<li class="col-offset-2 col-xs-2 col-lg-2 <?php echo ispageactive('index.php') ?>">
 					<a href="index.php">Accueil</a>
