@@ -1,41 +1,41 @@
-/* On travaille sur la balise body, donc sur TOUTE la page */
+/*On travaille sur la balise body, donc sur TOUTE la page*/
 
 body {
 
-	font-family: 'Fira Sans', sans-serif;
+	/*font-family: 'Fira Sans', sans-serif; PAS UTILE CAR DÉJÀ HÉRITÉ*/
 	font-color: black;
 	background-color: black;
 }
 
 .container{
 	background-color: white;
-	height: 1000px;
 }
 
-/*on travaille sur le bloc qui contient les 2 blocs: images + fil d'actu */ 
+/*on travaille sur le bloc qui contient les 2 blocs: images + fil d'actu*/ 
 
 .global{
 
-	width: 90%;
-	margin: 30px;
+	/*width: 90%;*/
+	/*modif du margin pour ne pas réduire la largeur*/
+	margin: 30px 0;
 }
 
 .left, .right {
 
-	display: inline-block;
-	vertical-align: top;
+	 /*display: inline-block; PAS UTILE*/
+	 /*vertical-align: top;*/
 
 }
 
-/*on travaille sur le bloc gauche qui contient les images */
+/*on travaille sur le bloc gauche qui contient les images*/
 
 .left {
 
-	margin-left:10px;
+	/*margin-left:10px; PAS UTILE*/
 }
 
 .categories {
-	/* style du fond*/
+	/*style du fond*/
 	background-color: rgb(254, 201, 0);
 	border: 1px;
 	width: 300px;
@@ -44,7 +44,7 @@ body {
 	padding-left: 40px;
 	padding-right: 40px;
 
-	/* style du texte*/
+	/*style du texte*/
 	font-family: "Fira Sans", sans-serif;
 	font-size: 30px;
 	color: black;
@@ -54,38 +54,76 @@ body {
 	position: relative;
 	bottom: 80px;
 	margin: -30px;
-	margin-left: 10px;
-
+	margin-left: 0px;
 }
 
 .picture_categories{
 
-	height: 300px;
-	width: 652px;
-	margin: 10px;
+	/*height: 300px;*/
+	/*width: 652px;*/
+	/*modif des margin sur les images*/
+	margin: 2rem 0;
+}
+
+/*la première image n'a pas de margin en haut*/
+.picture_categories:first-child{
+	margin-top: 0;
 }
 
 /*on travaille sur le bloc droit qui contient le fil d'actu*/
+/*.right{
+/*
+/*	;	
+/*}
+/*
+/*.actu {
+/*
+/*	/* style du texte*/
+/*	font-family: "Fira Sans", sans-serif;
+/*	font-size: 30px;
+/*	color: black;
+/*	text-align: center;
+/*
+/*	/* style du fond*/
+/*	margin-top: 10px;
+/*	border: 1px solid white;
+/*	height: 930px;
+/*	width: 370px;
+/*	background: lightgrey;
+/*}
+*/
 
-.right{
-
-	;	
+aside {
+	background-color: rgb(254, 201, 0);
+	padding: 2em;
+	overflow: auto;
 }
 
-.actu {
+aside img {
+	width: 100%;
+	border-radius: 1em 1em 0 0;
+}
 
-	/* style du texte*/
-	font-family: "Fira Sans", sans-serif;
-	font-size: 30px;
-	color: black;
+.news {
+	border: solid 1px black;
+	border-radius: 1em;
 	text-align: center;
-
-	/* style du fond*/
-	margin-top: 10px;
-	border: 1px solid white;
-	height: 930px;
-	width: 370px;
-	background: lightgrey;
+	background-color: white;
+	position: relative;
+	padding: 1rem;
+	margin: 2.3rem 0;
 }
 
+h5 {
+	font-size: 1.7rem;
+	text-align: center;
+}
+
+h6 {
+	font-size: 1.5rem;
+}
+
+.news p {
+	color: black;
+}
 
