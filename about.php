@@ -9,6 +9,9 @@
   
 </head>
 	<body>
+		!--Header réalisé par Emeline /include -->
+	<!--Nav bar réalisée par Emeline /include -->
+	<?php include ("includes/header.php"); ?>
 		
       <header class="row col-sm-12 col-lg-12">
         <div class="page-header">
@@ -130,8 +133,10 @@
 		</div>
 	</div>
 </div>
+<!--footer par Emeline /include -->
+	<?php include ("includes/footer.php"); 
+	?>
 
-		
 	
 </body>
 </html>
