@@ -1,8 +1,8 @@
 body{
     font-family: 'Fira Sans', sans-serif;
-    font-color: ;
-    background-color: black;
-    color:rgb( 254, 201, 0);
+   background-color: grey;
+    color:black;
+
 
 }
 
@@ -15,9 +15,10 @@ body{
     margin: 50px auto;
     padding: 8px;
     width: 70%; min-height: 100px;
-    background-color: black;
+    
 }
 
 ul{
    list-style-type: none;
+   color:rgb( 254, 201, 0);
 }
