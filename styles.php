@@ -27,12 +27,12 @@
 	
 	<div class="article">
 	
-		<p class="introduction"> Le jazz ne cesse de fusionner avec d'autres styles de musique tout en restant ce qu'il est. <br />
+		<p class="introduction"> Le jazz ne cesse de fusionner avec d'autres styles de musique tout en restant ce qu'il est.
 		Des premiers work songs aux métissages multiethniques, des gospels aux expériences électroniques, du blues aux rapprochements avec le hip-hop, nous abordons ici, en suivant la chronologie, les grandes phases de l'histoire du jazz : spirituals, gospel, ragtime, jazz hot, swing, bop, cool, hard bop, free, fusion, etc. L'évolution du jazz a été conditionnée par la place faite aux Africain-Americain dans la société américaine, infléchie par le poids de l'histoire, par le voisinage d'autres musiques, par l'apparition de nouvelles techniques d'enregistrement et de nouveaux instruments...</p> 
 	</div>
 
 		<div class="style">
-	<img src="https://upload.wikimedia.org/wikipedia/en/9/95/Ragtime.jpg" class="picture1">
+	<img src="https://upload.wikimedia.org/wikipedia/en/9/95/Ragtime.jpg" class="picture1" alt="Ragtime">
 
 	<h2>Ragtime</h2>
 
@@ -41,7 +41,7 @@
 		</div>
 
 		<div class="style">
-	<img src="https://images-na.ssl-images-amazon.com/images/I/51YwfHkYoOL._SS500.jpg">
+	<img src="https://images-na.ssl-images-amazon.com/images/I/51YwfHkYoOL._SS500.jpg" alt=New_Orleans>
 
 	<h2>New Orleans</h2>
 
@@ -50,7 +50,7 @@
 		</div>
 
 		<div class="style">
-	<img src="https://pbs.twimg.com/profile_images/570946641483718656/6pj4nFip.jpeg">
+	<img src="https://pbs.twimg.com/profile_images/570946641483718656/6pj4nFip.jpeg" alt="Swing">
 
 	<h2>Swing</h2>
 
@@ -60,7 +60,7 @@
 
 
 		<div class="style">
-	<img src="https://images-na.ssl-images-amazon.com/images/I/51p2OYIHfUL._SX258_BO1,204,203,200_.jpg">
+	<img src="https://images-na.ssl-images-amazon.com/images/I/51p2OYIHfUL._SX258_BO1,204,203,200_.jpg" alt="Manouche">
 
 	<h2>Manouche</h2>
 
@@ -70,7 +70,7 @@
 
 
 		<div class="style">
-	<img src="https://static.fnac-static.com/multimedia/Images/FR/NR/a8/2f/88/8925096/1540-1/tsp20170706110233/50-s-Be-Bop-Jazz.jpg">
+	<img src="https://static.fnac-static.com/multimedia/Images/FR/NR/a8/2f/88/8925096/1540-1/tsp20170706110233/50-s-Be-Bop-Jazz.jpg" alt="Be Bop">
 
 	<h2>BE BOP</h2>
 
@@ -79,7 +79,7 @@
 		</div>
 
 	<div class="style">
-	<img src="https://e.snmc.io/lk/l/s/877357c04cedf9ddc9be9893cc3cdba6/3361551.jpg">
+	<img src="https://e.snmc.io/lk/l/s/877357c04cedf9ddc9be9893cc3cdba6/3361551.jpg" alt="cool">
 
 	<h2>COOL</h2>
 
@@ -88,7 +88,7 @@
 		</div>
 
 	<div class="style">
-	<img src="https://img.discogs.com/1wnunBSNANGbn8qlP8ZxQ3qqpIU=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1878084-1256141942.jpeg.jpg">
+	<img src="https://img.discogs.com/1wnunBSNANGbn8qlP8ZxQ3qqpIU=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-1878084-1256141942.jpeg.jpg" alt="Free">
 
 	<h2>FREE</h2>
 
@@ -97,7 +97,7 @@
 		</div>
 	
 	<div class="style">
-	<img src="https://i.pinimg.com/736x/42/10/7e/42107e57bab434d95f251a163e62259e--hard-bop-design-typo.jpg">
+	<img src="https://i.pinimg.com/736x/42/10/7e/42107e57bab434d95f251a163e62259e--hard-bop-design-typo.jpg" alt="Hard Bop">
 
 	<h2>HARD BOP</h2>
 
@@ -106,7 +106,7 @@
 		</div>
 
 	<div class="style">
-	<img src="http://cdn.musicjazzfree.com/domains/www.musicjazzfree.com/genre/jazz-fusion/jazz-fusion-2.jpg">
+	<img src="http://cdn.musicjazzfree.com/domains/www.musicjazzfree.com/genre/jazz-fusion/jazz-fusion-2.jpg" alt="Fusion">
 
 	<h2>FUSION</h2>
 
@@ -115,7 +115,7 @@
 		</div>
 
 	<div class="style">
-	<img src="http://www.parisjazzcorner.com/pochs_g/092659.jpg">
+	<img src="http://www.parisjazzcorner.com/pochs_g/092659.jpg" alt="Latin">
 
 	<h2>LATIN</h2>
 
@@ -124,23 +124,15 @@
 		</div>
 
 	<div class="style">
-	<img src="https://images-na.ssl-images-amazon.com/images/I/51KNFH6766L.jpg">
+	<img src="https://images-na.ssl-images-amazon.com/images/I/51KNFH6766L.jpg" alt="Acid">
 
 	<h2>ACID</h2>
 
 	<p>L'acid jazz (également appelé groove jazz) est un style musical qui combine des influences de jazz avec des éléments issus de la soul music, du funk, du disco et du hip-hop. L'acid jazz prend son essor dans les années 1980 et 1990, d'abord à Londres grâce à des labels comme Talking Loud, puis dans le monde entier. Une des idées du genre était de retourner le jazz à ses racines, c'est à dire les salles de danse. Ceci explique le style plus soul, groove ainsi que des mélodies et un son plus accrocheur.<br />
 	Musiciens : Guru.</p>S
-		</div>
-
-
-
-
-	
 	</div>
-</div>
 
-
-
+	</div>
 
 </body>
 </html>

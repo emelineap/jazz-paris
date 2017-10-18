@@ -9,16 +9,16 @@
 
 					<div class="left">
 
-						<a href="/origines.php"><img class="picture_categories" src="assets/pictures/colinstetson-4.jpg" width="900" height="400" alt= "photo de Colin Stetson"></a>
+						<a href="origines.php"><img class="picture_categories" src="assets/pictures/colinstetson-4.jpg" width="900" height="400" alt= "photo de Colin Stetson"></a>
 
 						<p class="categories"><a href="/origins.php">LES ORIGINES</a></p>
 
 
-						<a href="/styles.php"><img class="picture_categories" src="assets/pictures/jaumetpinhas-6.jpg" width="900" height="400" alt=" photo Etienne Jaumet & Richard Pinhas"></a>
+						<a href="styles.php"><img class="picture_categories" src="assets/pictures/jaumetpinhas-6.jpg" width="900" height="400" alt=" photo Etienne Jaumet & Richard Pinhas"></a>
 
 						<p class="categories"><a href="/styles.php">LES STYLES</a></p>
 
-						<a href="/aujourdui.php"><img class="picture_categories" src="assets/pictures/Orchestre_Tout-Puissant-28.jpg" width="900" height="400" alt=" photo Orchestre"></a>
+						<a href="aujourdui.php"><img class="picture_categories" src="assets/pictures/Orchestre_Tout-Puissant-28.jpg" width="900" height="400" alt=" photo Orchestre"></a>
 
 						<p class="categories"><a href="/today.php">AUJOURD'HUI</a></p>
 

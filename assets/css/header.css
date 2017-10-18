@@ -1,49 +1,59 @@
-body{
-	font-family: 'Fira Sans', sans-serif;
+body {
 	background-color: black;
 }
 
-.container{
+.container {
 	background-color: white;
 }
 
-img{
+img {
 	width: 100%;
 	padding: 0 !important;
 }
 
-nav{
+nav {
 	line-height: 1em;
 }
 
-h1{
+h1 {
 	font-size: 20px;
 	background-color: rgb(254, 201, 0);
-	padding: 10px;
+	margin: 0;
+}
+
+h1 a {
+	color: black;
+}
+
+ul {
+	list-style-type: none;
+	font-size: 20px;
+	padding: 0;
+	line-height: 1em;
+}
+
+li {
+	text-align: center;
+}
+
+li a {
+	color: black;
+}
+
+.header-nav li {
+	font-size: 20px;
 	margin: 0;
 	text-align: center;
 	line-height: 1em;
+	transition: all 200ms linear;
 }
 
-h1 a{
-	color: black;
-}
-
-ul{
-	list-style-type: none;
-	font-size: 20px;
+.header-nav a {
+	text-decoration: none;
 	padding: 10px;
-	line-height: 1em;
+	display: block;
 }
 
-li{
-	text-align: center;
-}
-
-li a{
-	color: black;
-}
-
-.active {
-	background-color: gray;
+.header-nav .active a, .header-nav li:hover a {
+	background-color: rgb(254, 201, 0);
 }
