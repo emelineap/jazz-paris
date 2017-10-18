@@ -60,7 +60,9 @@
 						</div>
 					</aside>
 
-					<iframe src="https://open.spotify.com/embed?uri=spotify:user:spotify:playlist:37i9dQZF1DWZx4L0CjnaL9" width="262" height="250" frameborder="0" allowtransparency="true"></iframe>
+					<div class="div-spotify">
+						<iframe src="https://open.spotify.com/embed?uri=spotify:user:spotify:playlist:37i9dQZF1DWZx4L0CjnaL9" width="262" height="250" frameborder="0" allowtransparency="true"></iframe>
+					</div>
 
 				</div>
 			</div> 

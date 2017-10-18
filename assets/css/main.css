@@ -121,9 +121,8 @@ h6 {
 	/*height: 250;*/
 }
 
-@media screen and (max-width: 640px) {
-  .player-spotify {
+@media screen and (max-width: 992px) {
+  .div-spotify {
     display: none;
-    visibility: hidden;
   }
 }
