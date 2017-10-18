@@ -1,0 +1,45 @@
+body{
+	font-family: 'Fira Sans', sans-serif;
+	font-color: black;
+	background-color: black;
+}
+
+.container{
+	background-color: white;
+	height: 12700px;
+}
+
+.introduction{
+
+	font-size: 20px;
+	color: black;
+	text-align: justify;
+	font-family: 'Arial', sans-serif;
+}
+
+.style{
+	
+	box-sizing: border-box;
+	margin: 50px auto;
+	padding: 8px;
+	width: 70%; min-height: 100px;
+	background-color: black;
+}
+
+.style p{
+
+	color: white;
+	text-align: justify;
+	font-family:'Fira Sans',sans-serif;
+	font-size: 18px;
+}
+
+.style h2{
+
+	color: white;
+	font-family:'Fira Sans',sans-serif;
+	font-size: 30px;
+	text-align: center;
+}
+
+
