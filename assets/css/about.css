@@ -1,7 +1,16 @@
 body{
     font-family: 'Fira Sans', sans-serif;
-    background-color: white;
-    color:black;
+    background-color: black;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+
+p {
+    color: black;
+    padding-top : 50px;
 }
 
 
@@ -9,14 +18,32 @@ body{
     
     box-sizing: border-box;
     margin: 50px auto;
-    padding: 8px;
-    width: 52%; min-height: 100px;
-    background-image: url(https://rcf.fr/sites/default/static.rcf.fr/radios/rcfliege/emissions/place_au_jazz.jpg);
-    background-size: 130%;
-    background-image: no-repeat;
-    background-position:center center; 
+    text-align: center;
     color: white;   
 }
+
+.contact-info{
+    width: 100%;
+    padding-left: 700px;
+    text-align: center; 
+
+}
+
+.contact-container-text{
+    position:relative;
+    margin-right: 70%;
+    font-size: 130%;
+}
+
+
+.contact-form{
+    position:relative;
+    margin-left: 70%;
+    font-size: 40px;
+}
+
+
+
 
 .lead {
      position:relative;
@@ -25,7 +52,8 @@ body{
 
 .contact-description{
 	position: relative;
-	margin-left:0px;
+    padding-left:5%;
+    width:250%;
 }
 
 ul{
