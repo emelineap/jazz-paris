@@ -8,17 +8,17 @@
 				<!-- CATÉGORIES -->
 
 				<div class="col-xs-12 col-lg-9">
-						<a href="/origines.php"><img class="picture_categories" src="assets/pictures/colinstetson-4.jpg" width="900" height="400" alt= "photo de Colin Stetson"></a>
+					<a href="/origines.php"><img class="picture_categories" src="assets/pictures/colinstetson-4.jpg" width="900" height="400" alt= "photo de Colin Stetson"></a>
 
-						<p class="categories"><a href="origines.php">LES ORIGINES</a></p>
+					<p class="categories"><a href="origines.php">LES ORIGINES</a></p>
 
-						<a href="/styles.php"><img class="picture_categories" src="assets/pictures/jaumetpinhas-6.jpg" width="900" height="400" alt=" photo Etienne Jaumet & Richard Pinhas"></a>
+					<a href="/styles.php"><img class="picture_categories" src="assets/pictures/jaumetpinhas-6.jpg" width="900" height="400" alt=" photo Etienne Jaumet & Richard Pinhas"></a>
 
-						<p class="categories"><a href="styles.php">LES STYLES</a></p>
+					<p class="categories"><a href="styles.php">LES STYLES</a></p>
 
-						<a href="/aujourdui.php"><img class="picture_categories" src="assets/pictures/Orchestre_Tout-Puissant-28.jpg" width="900" height="400" alt=" photo Orchestre"></a>
+					<a href="/aujourdui.php"><img class="picture_categories" src="assets/pictures/Orchestre_Tout-Puissant-28.jpg" width="900" height="400" alt=" photo Orchestre"></a>
 
-						<p class="categories"><a href="aujourdui.php">AUJOURD'HUI</a></p>
+					<p class="categories"><a href="aujourdui.php">AUJOURD'HUI</a></p>
 				</div>
 
 				<!-- FIL D'ACTU -->
