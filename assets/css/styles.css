@@ -1,6 +1,5 @@
 body{
 	font-family: 'Fira Sans', sans-serif;
-	font-color: black;
 	background-color: black;
 }
 
@@ -10,13 +9,13 @@ body{
 }
 
 .introduction{
-	text-indent: 40px;
 	padding-top: 50px;
 	font-size: 20px;
 	color: black;
 	text-align: justify;
-	font-family: 'Arial', sans-serif;
 	border: 1 px solid left;
+	width: 50%;
+	margin: auto;
 }
 
 .style{
@@ -32,14 +31,12 @@ body{
 
 	color: white;
 	text-align: justify;
-	font-family:'Fira Sans',sans-serif;
 	font-size: 18px;
 }
 
 .style h2{
 
 	color: white;
-	font-family:'Fira Sans',sans-serif;
 	font-size: 30px;
 	text-align: center;
 }
