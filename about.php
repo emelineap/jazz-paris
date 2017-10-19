@@ -10,7 +10,9 @@
   <link rel="stylesheet" type ="text/css" href="assets/css/footer.css" />
   <title> Contact </title>
 </head>
-<?php include ("includes/header.php"); ?>
+<?php include ("includes/header.php");
+?>
+
 <body>
   <!--Header réalisé par Emeline /include -->
   <!--Nav bar réalisée par Emeline /include -->
@@ -30,8 +32,8 @@
 
 
           <div class="contact-description">
-            <p class="lead"> Paris Jazz est ravi de vous compter parmi ses nombreux web-lecteurs. N'hésitez pas à nous contacter, quelle que soit la raison (tant que cela concerne le jazz bien sûr). <br>
-            Petit portrait de notre équipe, 100% féminine.</br> </p> 
+            <p class="lead"> Paris Jazz est ravi de vous compter parmi ses nombreux web-lecteurs. N'hésitez pas à nous contacter, Bien musicalement, la team jazz-paris. <br>
+            Prochainement sur notre site: petit portrait de notre équipe, 100% féminine.</br> </p> 
           </div>
           <div class="contact-information">
             <p class="lead">
