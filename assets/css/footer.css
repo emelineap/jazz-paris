@@ -3,14 +3,18 @@
 }
 
 footer p {
-	height: 5em;
-	line-height: 5em;
-}
-
-p {
+	/*height: 5em;*/
+	/*line-height: 5em;*/
 	color: white;
 	text-align: center;
+	padding-top: 2em;
 }
+
+.copyright {
+	font-size: 80%;
+	padding-top: 0;
+}
+
 
 p a {
 	color: white;
