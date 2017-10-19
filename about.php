@@ -32,7 +32,7 @@
       <div class="col-xs-12 col-lg-6">
         <p class="lead"> Paris Jazz est ravi de vous compter parmi ses nombreux web-lecteurs. N'hésitez pas à nous contacter, Bien musicalement, la team jazz-paris. <br />
           Prochainement sur notre site: petit portrait de notre équipe, 100% féminine.<br />
-        Egalement à venor, un fil d'actu, tout beau tout neuf qui sera mis à jour régulièrement afin de vous avertir des évènements musicaux à venir. </p> 
+        Egalement à venir, un fil d'actu jazzy qui sera mis à jour régulièrement afin de vous avertir des prochains évènements musicaux. </p> 
       </div>
 
       <div class="col-xs-4 col-lg-6 form" >
