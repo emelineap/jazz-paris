@@ -4,7 +4,7 @@
 
 <head>
 	<meta charset="UTF-8">
-	<title>Jazz Paris</title>
+	<title>Jazz Paris: Origines</title>
 	<!-- FAVICON -->
 	<link rel="shortcut icon" href="assets/pictures/favicon.ico" type="image/x-icon">
 	<link rel="icon" href="assets/pictures/favicon.ico" type="image/x-icon">
