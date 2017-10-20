@@ -12,9 +12,9 @@ For the versions available, see (https://github.com/emelineap/jazz-paris/).
 
 ## Authors
 
-Cyrielle Huet (https://github.com/Cyrht)
-Elisa Laristan (https://github.com/tiloupiot)
-Emeline Ancel-Pirouelle (https://github.com/emelineap/)
+* Cyrielle Huet (https://github.com/Cyrht)
+* Elisa Laristan (https://github.com/tiloupiot)
+* Emeline Ancel-Pirouelle (https://github.com/emelineap/)
 
 ## Acknowledgments
 
