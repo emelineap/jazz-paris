@@ -1,3 +1,4 @@
+
 body {
 	font-family: 'Fira Sans', sans-serif;
 	font-color: black;
@@ -6,7 +7,6 @@ body {
 
 .container {
 	background-color: white;
-
 }
 
 .introduction {
@@ -20,7 +20,6 @@ body {
 }
 
 .style {
-	
 	box-sizing: border-box;
 	margin: 50px auto;
 	padding: 8px;
@@ -36,7 +35,6 @@ body {
 }
 
 .style p {
-
 	color: white;
 	text-align: justify;
 	font-size: 18px;

@@ -1,29 +1,34 @@
 .in-footer-color {
-	background-color: black;
+background-color: black;
 }
 
 footer p {
-	/*height: 5em;*/
-	/*line-height: 5em;*/
-	color: white;
-	text-align: center;
-	padding-top: 2em;
+<<<<<<< HEAD
+height: 5em;
+line-height: 2em;
+color: white;
+text-align: center;
+padding-top: 2em;
+margin-bottom: 0;
 }
 
 .copyright {
-	font-size: 80%;
-	padding-top: 0;
+font-size: 80%;
+padding-top: 0;
+line-height: 2em;
+color: white;
+text-align: center;
+padding-top: 2em;
 }
 
-
 p a {
-	color: white;
+color: white;
 }
 
 .padding-right {
-	padding-right: 0;
+padding-right: 0;
 }
 
 .padding-left {
-	padding-left: 0;
+padding-left: 0;
 }

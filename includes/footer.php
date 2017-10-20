@@ -1,6 +1,6 @@
 <footer class="container">
 	<div class="row">
-		<div class="in-footer col-xs-12 col-lg-12">
+		<div class="col-xs-12 col-lg-12">
 			<div class="in-footer-color">
 				<div class="row">
 					<div class="col-xs-12 col-lg-9 padding-right">

@@ -4,7 +4,10 @@
 
 <head>
 	<meta charset="UTF-8">
-	<title>Jazz Paris</title>
+	<title>Jazz Paris: Origines</title>
+	<!-- FAVICON -->
+	<link rel="shortcut icon" href="assets/pictures/favicon.ico" type="image/x-icon">
+	<link rel="icon" href="assets/pictures/favicon.ico" type="image/x-icon">
 
 	<!-- BOOTSTRAP CSS -->
 	<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
@@ -26,7 +29,7 @@
 	<div class="container">
 		
 		<div class="article">
-			
+
 			<p class="introduction">
 				Pour nombre d'historiens ou musicologues avertis, le jazz est une création américaine née de la rencontre fortuite de traditions ancestrales portées par les esclaves africains, et d'harmonies classiques séculaires préservées par les colons européens pendant des siècles. Ce choc culturel entre Blancs et Noirs sera la source d'un genre musical révolutionnaire et militant !
 			</p> 
@@ -43,7 +46,6 @@
 				En outre, le jazz a aussi pour origine la musique religieuse : les esclaves apprennent les harmonies des hymnes lors de l'office dominical, et y ajoutent des influences africaines pour créer les negro spirituals et le gospel, peu à peu chantés dans les églises méthodistes, baptistes ou pentecôtistes28. De même, au cours du xixe siècle, un nombre grandissant de musiciens noirs apprennent à jouer d'un instrument « européen », notamment le violon, et parodient la musique de bal dans les cakewalks. À l'inverse, les minstrel shows, réalisés par des Euro-Américains au visage peint en noir (blackface), combinent la syncope des rythmes africains et l'harmonie de la musique européenne.
 			</p>
 		</div>
-		
 
 		<div class="style">
 			<img src="https://www.thebridge2017.com/medias/00/00/60/5-nouveaux-artistes-jazz-a-decouvrir-de-toute-urgence-c-1920-650.jpg" alt="jazz">
@@ -54,18 +56,19 @@
 		</div>
 
 		<div class="style">
+
 			<img src="http://static-cdn.arte.tv/cdnp-cinema/sites/default/files/styles/cine_rectangle_1240/public/thumbnails/image/jazztaenzer.png?itok=9luGAJgi" alt="jazz">
 
 			<h2>Jazz Nouvelle-Orléans et Dixieland (1910-1930)</h2>
 
 			<p>C'est à La Nouvelle-Orléans que l'on fait en général naître le jazz, avec les formations orchestrales des « brass bands », mélange de marches militaires revisitées par les noirs américains et les créoles, qui privilégie l'expression collective. Dans les années 1910 apparaissent les premières formes de jazz (« proto-jazz »), notamment sous l'impulsion du chef d'orchestre James Reese Europe, qui créa le Clef Club. Cette salle de concert de Harlem accueille dès 1912 le premier orchestre de jazz composé uniquement d'Afro-Américains, le Clef Club Orchestra. En 1913 et 1914 sont réalisés des enregistrements au phonographe pour la Victor Talking Machine Company.<br />
 
-				Le premier enregistrement de jazz voit le jour en mars 1917 par l'Original Dixieland Jass Band. Autoproclamé inventeur du jazz, Jelly Roll Morton est en effet un passeur entre ragtime et jazz, mais ce sont Kid Ory, Sidney Bechet et surtout Louis Armstrong qui s'imposent comme les grands solistes des formations Nouvelle-Orléans caractérisées par l'improvisation collective sur le schéma instrumental trompette, trombone, clarinette.
+			<p>Le premier enregistrement de jazz voit le jour en mars 1917 par l'Original Dixieland Jass Band. Autoproclamé inventeur du jazz, Jelly Roll Morton est en effet un passeur entre ragtime et jazz, mais ce sont Kid Ory, Sidney Bechet et surtout Louis Armstrong qui s'imposent comme les grands solistes des formations Nouvelle-Orléans caractérisées par l'improvisation collective sur le schéma instrumental trompette, trombone, clarinette.
 			</p>
 		</div>
 
-
 		<div class="style">
+
 			<img src="http://www.ombres-blanches.fr/uploads/tx_tableslibraires/jazz.jpg" alt="jazz">
 
 			<h2>Du swing au bebop</h2>
@@ -79,6 +82,7 @@
 
 
 		<div class="style">
+
 			<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Louis_Armstrong_restored.jpg/1200px-Louis_Armstrong_restored.jpg" alt="jazz">
 
 			<h2>BE BOP</h2>
@@ -89,6 +93,7 @@
 		</div>
 
 		<div class="style">
+
 			<img src="http://www.musikzeitung.ch/.imaging/stk/musikzeitung/article-image-intro/website/fr/resonance/jazz/2017/Femmes-AMR/imageBinary/Mary_Lou_Williams_(Gottlieb_09231)_-_Crop.jpg" alt="jazz">
 
 			<h2>Cool jazz, hard bop, jazz modal, free jazz (années 1950)</h2>
@@ -96,12 +101,11 @@
 			<p>Le cool jazz né en 1949 sous la houlette de Miles Davis qui cherche à briser la spirale frénétique du be-bop vers plus de virtuosité. L'album The Birth of Cool en 1949 marque un retour à des rythmes plus apaisés et des compositions plus simples. Ce caractère plus abordable lui permettra de connaitre un succès rapide, en particulier auprès des musiciens de la côte ouest des États-Unis avant de se prêter à de nombreux métissages (notamment avec la musique brésilienne pour créer la bossa-nova ). Le cool jazz est un jazz libre, rempli de silence et d'intensité. Il contient tout le bebop dans ses phrasés, dans l'attitude des musiciens et c'est aussi une musique qui s'écoute facilement, que l'on peut apprécier dans tous les instants.<br />
 			Musiciens : Miles Davis - Chet Baker - Dave Brubeck  </p>
 		</div>
-	</div>
 
+	  </div>
 
 	<?php include ("includes/footer.php"); ?>
 
-
-</body>
-</html>
+	</body>
+	</html>
 
