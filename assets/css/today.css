@@ -1,0 +1,41 @@
+
+body {
+	font-family: 'Fira Sans', sans-serif;
+	font-color: black;
+	background-color: black;
+}
+
+.container {
+	background-color: white;
+}
+
+.introduction {
+	padding-top: 50px;
+	font-size: 20px;
+	color: black;
+	text-align: justify;
+	border: 1 px solid left;
+	width: 50%;
+	margin: auto;
+}
+
+.style {
+	box-sizing: border-box;
+	margin: 50px auto;
+	padding: 8px;
+	width: 70%; min-height: 100px;
+	background-color: black;
+}
+
+.style h2 {
+
+	color: white;
+	font-size: 30px;
+	text-align: center;
+}
+
+.style p {
+	color: white;
+	text-align: justify;
+	font-size: 18px;
+}
