@@ -6,8 +6,8 @@
 	<meta charset="UTF-8">
 	<title>Jazz Paris: contact</title>
 	<!-- FAVICON -->
-<link rel="shortcut icon" href="assets/pictures/favicon.ico" type="image/x-icon">
-<link rel="icon" href="assets/pictures/favicon.ico" type="image/x-icon">
+	<link rel="shortcut icon" href="assets/pictures/favicon.ico" type="image/x-icon">
+	<link rel="icon" href="assets/pictures/favicon.ico" type="image/x-icon">
 
 
 	<!-- BOOTSTRAP CSS -->
@@ -49,33 +49,34 @@
 						</select>
 					</div>
 
-					<div class="form-group">
-						<input type="text" class="form-control contact-input" id="id_lastName" name="lastName" placeholder="Nom*" required="" aria-required="true">
-					</div>
+						<div class="form-group">
+							<input type="text" class="form-control contact-input" id="id_lastName" name="lastName" placeholder="Nom*" required="" aria-required="true">
+						</div>
 
-					<div class="form-group">
-						<input type="text" class="form-control contact-input" id="id_firstName" name="firstName" placeholder="Prénom*" required="" aria-required="true">
-					</div>
+						<div class="form-group">
+							<input type="text" class="form-control contact-input" id="id_firstName" name="firstName" placeholder="Prénom*" required="" aria-required="true">
+						</div>
 
-					<div class="form-group">
-						<input type="text" class="form-control contact-input" id="id_street" name="street" placeholder="Numéro de rue">
-					</div>
+						<div class="form-group">
+							<input type="text" class="form-control contact-input" id="id_street" name="street" placeholder="Numéro de rue">
+						</div>
 
-					<div class="form-group">
-						<input type="text" class="form-control contact-input" id="id_city" name="city" placeholder="Ville/code postal*" required="" aria-required="true">
-					</div>
+						<div class="form-group">
+							<input type="text" class="form-control contact-input" id="id_city" name="city" placeholder="Ville/code postal*" required="" aria-required="true">
+						</div>
 
-					<div class="form-group">
-						<input type="text" class="form-control contact-input" id="id_email" name="email" placeholder="Email*" required="" aria-required="true">
-					</div>
+						<div class="form-group">
+							<input type="text" class="form-control contact-input" id="id_email" name="email" placeholder="Email*" required="" aria-required="true">
+						</div>
 
-					<div class="form-group">
-						<input type="text" class="form-control contact-input" id="id_phone" name="phone" placeholder="Telephone">
-					</div>
-					<div>
-						<textarea class="form-control contact-input" rows="3" placeholder="Commentaires" id="id_notes" name="notes"></textarea>
-					</div>
-
+						<div class="form-group">
+							<input type="text" class="form-control contact-input" id="id_phone" name="phone" placeholder="Telephone">
+						</div>
+						<div>
+							<textarea class="form-control contact-input" rows="3" placeholder="Commentaires" id="id_notes" name="notes"></textarea>
+						</div>
+					
+						<input type="submit" value="Envoyer" />
 				</form>
 			</div>
 		</div>
