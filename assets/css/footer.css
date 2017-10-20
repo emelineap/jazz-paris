@@ -3,6 +3,7 @@ background-color: black;
 }
 
 footer p {
+<<<<<<< HEAD
 height: 5em;
 line-height: 2em;
 color: white;
@@ -15,8 +16,10 @@ margin-bottom: 0;
 font-size: 80%;
 padding-top: 0;
 line-height: 2em;
+color: white;
+text-align: center;
+padding-top: 2em;
 }
-
 
 p a {
 color: white;
