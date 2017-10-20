@@ -6,6 +6,10 @@
 	<meta charset="UTF-8">
 	<title>Jazz Paris</title>
 
+	<!-- FAVICON -->
+	<link rel="shortcut icon" href="assets/pictures/favicon.ico" type="image/x-icon">
+	<link rel="icon" href="assets/pictures/favicon.ico" type="image/x-icon">
+
 	<!-- BOOTSTRAP CSS -->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
@@ -24,10 +28,5 @@
 	<?php include ("includes/main.php"); ?>
 	<?php include ("includes/footer.php"); ?>
 
-	<script
-	src="https://code.jquery.com/jquery-3.2.1.min.js"
-	integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
-	crossorigin="anonymous"></script>
-	<script src="hide-header.js"></script>
 </body>
 </html>
